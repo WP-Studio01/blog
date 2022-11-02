@@ -1,11 +1,11 @@
 {
 	"user": "WP_Studio01",
 	"repo": "blog",
-	"url": "https://wp-studio01.github.io/blog/",
-	"title": "HelloWorldµÄ²©¿Í",
+	"url": "https://github.com/WP_Studio01/blog/",
+	"title": "HelloWorldçš„åšå®¢",
 	"menu": [
 		{
-			"name": "ÎÄÕÂ"
+			"name": "æ–‡ç« "
 			"url": "https://wp-studio01.github.io/blog/"
 		}
 	]
