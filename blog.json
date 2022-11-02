@@ -5,7 +5,7 @@
 	"title": "HelloWorld的博客",
 	"menu": [
 		{
-			"name": "文章"
+			"name": "文章",
 			"url": "https://wp-studio01.github.io/blog/"
 		}
 	]
