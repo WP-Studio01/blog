@@ -5,8 +5,16 @@
 	"title": "HelloWorld的博客",
 	"menu": [
 		{
+			"name": "自由讨论",
+			"url": "https://wp-studio01.github.io/freedom/"
+		},
+		{
 			"name": "文章",
 			"url": "https://wp-studio01.github.io/blog/"
+		},
+		{
+			"name": "主页",
+			"url": "https://wp-studio01.github.io/home/"
 		}
 	]
 }
